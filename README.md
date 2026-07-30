@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:2563EB,100:7C3AED&text=Abhay%20Khot&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:2563EB,100:7C3AED&text=Abhay%20Khot&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Building+Modern+Web+Applications;AI+Enthusiast;Always+Learning+Something+New"/>
 
 <br><br>
 
@@ -30,86 +30,96 @@
 
 # 👋 Hey, I'm Abhay Khot
 
-```javascript
-const abhay = {
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-    location: "Maharashtra, India",
+## 💻 About Me
 
-    education: {
-        degree: "Bachelor of Computer Applications",
-        college: "Rajarambapu Institute of Technology"
-    },
+```bash
+> whoami
 
-    role: "Full Stack Developer",
+Abhay Khot
 
-    languages: [
-        "JavaScript",
-        "Python",
-        "Java",
-        "C",
-        "SQL"
-    ],
+> role
 
-    frontend: [
-        "React",
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
+Full Stack Developer
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "PHP"
-    ],
+> education
 
-    database: [
-        "MongoDB",
-        "MySQL"
-    ],
+Bachelor of Computer Applications
+Rajarambapu Institute of Technology
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Power BI",
-        "Postman",
-        "Firebase"
-    ],
+> location
 
-    currentlyLearning: [
-        "Next.js",
-        "Cloud Computing",
-        "System Design",
-        "Artificial Intelligence"
-    ],
+Maharashtra, India 🇮🇳
 
-    motto: "Build. Learn. Improve. Repeat."
+> currently-working-on
+
+• MERN Stack Projects
+• AI Applications
+• Portfolio Development
+
+> tech-stack
+
+Frontend
+├── HTML5
+├── CSS3
+├── JavaScript
+├── React
+├── Tailwind CSS
+└── Bootstrap
+
+Backend
+├── Node.js
+├── Express.js
+└── PHP
+
+Database
+├── MongoDB
+└── MySQL
+
+Languages
+├── JavaScript
+├── Python
+├── Java
+├── C
+└── SQL
+
+> currently-learning
+
+✓ Next.js
+✓ Cloud Computing
+✓ Artificial Intelligence
+✓ System Design
+
+> hobbies
+
+☕ Coffee
+💻 Coding
+📚 Learning
+🎵 Music
+
+> life
+
+while(alive){
+
+    Eat();
+
+    Code();
+
+    Learn();
+
+    Build();
+
+    Repeat();
 
 }
 ```
-
----
-
-# 🚀 About Me
-
-<img align="right" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-### 💻 Full Stack Developer
-
-- 🚀 Passionate about building scalable web applications.
-- 🌱 Exploring AI-powered applications.
-- 📚 Love learning modern technologies.
-- 🎯 Interested in Backend Development.
-- ☕ Coffee + Code = Productivity.
-- ⚡ Always improving one project at a time.
 
 <br clear="right"/>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
@@ -149,9 +159,9 @@ const abhay = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhayK19&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhayK19&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayK19&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayK19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -179,15 +189,15 @@ const abhay = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbhayK19&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AbhayK19&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🌟 Quote
+# 🌟 Developer Philosophy
 
-> **"Code is not just about solving problems; it's about creating possibilities."**
+> **"The best code isn't the one that works—it's the one that's clean, maintainable, and solves real problems."**
 
 ---
 
@@ -197,6 +207,6 @@ const abhay = {
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you enjoy my work, consider giving a ⭐ to my repositories.
 
 </div>
